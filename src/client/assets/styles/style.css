@@ -1,0 +1,8 @@
+@font-face {
+    font-family: TitilliumWeb;
+    src: url("../fonts/TitilliumWeb-Bold.ttf") format("truetype");
+}
+h1{
+    color: red;
+    font-family: "TitilliumWeb";
+}
